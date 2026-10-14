@@ -1,0 +1,23 @@
+# Data & Cache (jangan upload)
+data/
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit secrets
+.streamlit/
+
+# Virtual environment
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
